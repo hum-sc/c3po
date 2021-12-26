@@ -1,0 +1,19 @@
+{
+  "name": "c3po",
+  "version": "1.0.0",
+  "description": "Cryptografic translator",
+  "main": "connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hum-sc/c3po.git"
+  },
+  "author": "Humberto SC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hum-sc/c3po/issues"
+  },
+  "homepage": "https://github.com/hum-sc/c3po#readme"
+}
