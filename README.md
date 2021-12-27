@@ -1,2 +1,3 @@
 # c3po
-Cryptografic module to make secure server conections
+Cryptografic module to make secure communications
+
