@@ -2,7 +2,7 @@
   "name": "c3po",
   "version": "1.0.0",
   "description": "Cryptografic translator",
-  "main": "connection.js",
+  "main": "c3po.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +12,7 @@
   },
   "author": "Humberto SC",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/hum-sc/c3po/issues"
   },
